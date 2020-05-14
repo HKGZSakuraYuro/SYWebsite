@@ -1,0 +1,37 @@
+
+.navbar a:hover{
+	background:none !important;
+	border-bottom:3px solid #fff;
+	margin-bottom :0px;
+}
+.navbar a{
+	margin:3px;
+
+}
+.navbar{
+	margin-bottom:0;
+}
+.f3{
+	margin-top:3px;
+}
+.b3{
+	margin-top:3px;
+}
+ .bda{
+	margin-right:2px;
+}
+.jumbotron{
+	text-align:center;
+}
+.jumbotron{
+	padding:60px 60px 40px 60px;
+}
+.panel-title{
+	text-align:center;
+}
+.t1{
+	padding-left:5px;
+}
+.pagi{
+	text-align:center;
+}
