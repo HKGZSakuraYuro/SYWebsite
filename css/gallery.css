@@ -1,0 +1,42 @@
+
+.navbar a{
+	margin:3px;
+}
+.navbar a:hover{
+	background:none !important;
+	border-bottom:3px solid #fff;
+    margin-bottom:0px;
+}
+
+ .form-control{
+ 	margin-top:3px;
+ }
+
+ .b1{
+ 	margin-top:3px;
+ }
+
+
+
+.jumbotron{
+	background:#333 url('../img/back1.jpg') ;
+	height:800px;
+	background-repeat:no-repeat;
+	background-size:cover;
+	text-align:center;
+
+}
+.c1{
+	background:#C1C0BB;
+	margin-top:60px;
+	padding-right:50px;
+	padding-left:50px;
+	padding-bottom:20px;
+	padding-top:6px;
+	border:0px #C1C0BB;
+	border-radius:14px 14px 14px;
+	box-shadow:4px 4px 4px;
+}
+.pagi{
+	text-align:center;
+}

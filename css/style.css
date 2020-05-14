@@ -1,0 +1,54 @@
+.navbar a:hover{
+	background:none !important;
+	border-bottom:3px #fff solid;
+	margin-bottom:0;
+}
+.navbar a{
+	margin:3px;
+}
+
+.navbar{
+	margin-bottom:0px;
+}
+.jumbotron{
+	text-align:center;
+
+}
+.jumbotron-main{
+	padding-left:60px;
+	padding-right:60px;
+	padding-bottom:40px;
+}
+.btn-primary{
+	color:#fff;
+
+	background:#313461;
+}
+
+.btn-default:hover{
+	background:grey;
+}
+.main-header{
+	padding-bottom:20px;
+}
+.t1{
+	padding-top:20px;
+}
+.img-full{
+	padding-bottom:10px;
+}
+ .b2{
+	margin-left:100px;
+}
+.list-group-item{
+	text-align:center;
+}
+.panel-title{
+	text-align:center;
+}
+.well{
+	height:290px;
+}
+.pagi{
+	text-align:center;
+}

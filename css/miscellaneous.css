@@ -1,0 +1,83 @@
+.navbar a:hover{
+	background:none !important;
+	
+	border-bottom:3px solid #fff;
+	margin-bottom:0px;
+	
+}
+
+.navbar a{
+	margin:3px;
+}
+
+
+.navbar{
+	margin:0px;
+}
+.f2{
+	margin-top:3px;
+}
+.b2{
+	margin-top:3px;
+}
+.jumbotron{
+	text-align:center;
+
+}
+.jumbotron-main{
+	padding-left:60px;
+	padding-right:60px;
+	padding-bottom:40px;
+}
+.btn-primary{
+	background:#313461;
+     border-color:background:#313461;
+
+}
+#manga{
+	padding:15px;
+}
+.p1{
+	margin-left:10px;
+}
+.t2{
+
+	padding-top:40px;
+	width:400px;
+}
+.p2{
+	padding-left:120px;
+}
+#games{
+	padding:15px;
+
+}
+.t3{
+	padding-top:20px;
+	width:350px;
+}
+.p3{
+	margin-top:5px;
+}
+#films{
+	padding:15px;
+}
+.t4{
+	padding-top:20px;
+	width:380px;
+}
+.p4{
+   margin-left:80px;
+   background:#EEEEEE;
+   width:170px;
+}
+.p5{
+	margin-top:5px;
+}
+.alert{
+	text-align:center;
+}
+.pagi{
+	text-align:center;
+}
+
