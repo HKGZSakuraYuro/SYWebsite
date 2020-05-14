@@ -2,7 +2,7 @@
 
 Hello, I'm a gamer. People known me as SakuraYuro or HKGZ
 
-[Image](https://cdn.discordapp.com/attachments/601649355803590656/710338994839224370/tenor_2.gif)
+![Image](https://cdn.discordapp.com/attachments/601649355803590656/710338994839224370/tenor_2.gif)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
